@@ -1,7 +1,0 @@
-{
- "token": "token here",
- "prefix": ".",
- "delete_after": 20,
- "silent_mode": "on",
- "selfy_rpc": "on"
-}
