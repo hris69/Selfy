@@ -25,3 +25,9 @@ This will delete the messages after a certain time.
 Open the "config.json" file and insert "silent_mode" ("on" or "off") in the "".
 Silent mode will display all outputs off the commands in the console.
 
+
+# Issues, Questions and Bugs
+
+- For issues and questions feel free to open a label issue
+- For bugs also open a label issue, please describe the bug and I will try my best to fix it.
+
