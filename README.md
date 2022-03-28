@@ -3,6 +3,11 @@ Selfy was build with creativity and lots of effort. Selfy logs the command that 
 
 # HOW TO CONFIGURE SELFY:
 
+- Download
+
+To install Selfy go to [Releases](https://github.com/hris69/Selfy-Selfbot/releases)
+and install the latest version.
+
 - Input your account token:
 
 If you don't know how to get the account token watch this video:
