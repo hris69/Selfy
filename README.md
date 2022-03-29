@@ -2,6 +2,7 @@
 Selfy was build with creativity and lots of effort.
 Selfy logs commands, errors and mentions into the console,
 so you can have everything in view.
+- Build with python
 
 # HOW TO CONFIGURE SELFY:
 
@@ -10,7 +11,6 @@ so you can have everything in view.
 To install Selfy go to [Releases](https://github.com/hris69/Selfy-Selfbot/releases)
 and install the latest version.
 
-- Build with python
 
 - Input your account token:
 
