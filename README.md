@@ -37,6 +37,6 @@ Silent mode will display all outputs off the commands in the console.
 
 # Issues, Questions and Bugs
 
-- For issues and questions feel free to open a label issue
+- For issues and questions feel free to open a [https://github.com/hris69/Selfy/discussions](discussion)
 - For bugs also open a label issue, please describe the bug and I will try my best to fix it.
 
