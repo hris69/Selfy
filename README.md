@@ -10,6 +10,8 @@ so you can have everything in view.
 To install Selfy go to [Releases](https://github.com/hris69/Selfy-Selfbot/releases)
 and install the latest version.
 
+- Build with python
+
 - Input your account token:
 
 If you don't know how to get the account token watch this video:
