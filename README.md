@@ -1,3 +1,7 @@
+# RETIRED PROJECT
+
+
+
 # Selfy Selfbot
 Selfy was build with creativity and lots of effort.
 Selfy logs commands, errors and mentions into the console,
